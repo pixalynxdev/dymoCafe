@@ -1,0 +1,15 @@
+﻿<Window x:Class="Barcode.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Window1" Height="300" Width="300" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <ComboBox x:Name="PrintersComboBox" DisplayMemberPath="Name"></ComboBox>
+        <Button x:Name="PrintBarcodeButton" Grid.Row="1" Click="PrintBarcodeButton_Click">Print Barcode</Button>
+        <Button x:Name="PrintBarcodeAsImageButton" Grid.Row="2" Click="PrintBarcodeAsImageButton_Click">Print Barcode as Image</Button>
+    </Grid>
+</Window>

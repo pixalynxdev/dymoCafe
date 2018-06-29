@@ -1,0 +1,12 @@
+D:\wasif\Dymo\C#\SDK Samples\High Level COM\dotNet\C# Sample\bin\Debug\CSharp Sample.exe.config
+D:\wasif\Dymo\C#\SDK Samples\High Level COM\dotNet\C# Sample\bin\Debug\CSharp Sample.exe
+D:\wasif\Dymo\C#\SDK Samples\High Level COM\dotNet\C# Sample\bin\Debug\CSharp Sample.pdb
+D:\wasif\Dymo\C#\SDK Samples\High Level COM\dotNet\C# Sample\bin\Debug\Interop.Dymo.dll
+D:\wasif\Dymo\C#\SDK Samples\High Level COM\dotNet\C# Sample\obj\Debug\CSharp Sample.csprojAssemblyReference.cache
+D:\wasif\Dymo\C#\SDK Samples\High Level COM\dotNet\C# Sample\obj\Debug\Interop.Dymo.dll
+D:\wasif\Dymo\C#\SDK Samples\High Level COM\dotNet\C# Sample\obj\Debug\CSharp Sample.csproj.ResolveComReference.cache
+D:\wasif\Dymo\C#\SDK Samples\High Level COM\dotNet\C# Sample\obj\Debug\CSharp_Sample.Form1.resources
+D:\wasif\Dymo\C#\SDK Samples\High Level COM\dotNet\C# Sample\obj\Debug\CSharp Sample.csproj.GenerateResource.cache
+D:\wasif\Dymo\C#\SDK Samples\High Level COM\dotNet\C# Sample\obj\Debug\CSharp Sample.csproj.CoreCompileInputs.cache
+D:\wasif\Dymo\C#\SDK Samples\High Level COM\dotNet\C# Sample\obj\Debug\CSharp Sample.exe
+D:\wasif\Dymo\C#\SDK Samples\High Level COM\dotNet\C# Sample\obj\Debug\CSharp Sample.pdb

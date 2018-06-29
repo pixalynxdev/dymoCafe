@@ -1,0 +1,4 @@
+D:\wasif\Dymo\C#\Framework Samples\dotNET\C# Sample\obj\Debug\CSharp Sample.csprojAssemblyReference.cache
+D:\wasif\Dymo\C#\Framework Samples\dotNET\C# Sample\obj\Debug\CSharp_Sample.Form1.resources
+D:\wasif\Dymo\C#\Framework Samples\dotNET\C# Sample\obj\Debug\CSharp Sample.csproj.GenerateResource.cache
+D:\wasif\Dymo\C#\Framework Samples\dotNET\C# Sample\obj\Debug\CSharp Sample.csproj.CoreCompileInputs.cache
